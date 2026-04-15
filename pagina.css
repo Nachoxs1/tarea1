@@ -4,35 +4,30 @@
     display: flex;
     justify-content: center;
 }
+.fullfondo {
+  background-color: yellow;
+}
 .home{
     color: white;
     text-align: center;
-    background-image: url("Tiendaderopa.webp");
+    background-image: url("imagenes/Tiendaderopa.webp");
     background-size: cover;
     width: 100%;
     height: 400px;
+  border-radius: 25px;
 }
 
-.ropahombre {
+.selec {
+    justify-content: center;
     text-align: center;
-    position: relative;
-    left: -190px; 
+    background-color: yellow;
 }
-.ropamujer{
-    text-align: center;
-    position: relative;
-    top: -125px;
 
-    
-}
-.ropaniños{
-    text-align: center;
-    position: relative;
-    top: -250px;
-    left: 190px; 
-}
 .h3{
     text-align: center;
+    background-color: yellow;
+    width: 100%;
+
 }
 #demo {
   width: 100%;
@@ -42,5 +37,17 @@
   height: 550px;       
   object-fit: cover;
   object-position: center top; 
-  image-resolution: 1800px;
+}
+.rounded-circle {
+  width: 100px;
+  height: auto;
+}
+
+.card-text-ofertas{
+  text-decoration: line-through;
+  color: black;
+}
+
+.card-img-top{
+  transition: transform 0.3s ease;
 }
