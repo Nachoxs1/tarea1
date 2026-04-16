@@ -1,0 +1,13 @@
+Geminis IA
+-codigo para pegar una imagen atras de un texto
+-Centrar Imagen en HTML con CSS
+-background-size: cover; que hace exactamente
+-porque mi codigo de carrusel no sirve(le pegue mi codigo)
+-dime el comando para quitar la linea de abajo del comando a en HTML
+
+
+Cloud IA
+-como logro que la imagen se estire y rellene el cuadro en css ya que esta en un carrusel de imágenes (Pegue ina imagen de apoyo)
+-entonces agarre las imagenes gracias al 
+carrusel-img"> (Afirmar lo que tenia que hacer)
+-tod eso este en un css (foto de una carta sacada de boostrap5)
