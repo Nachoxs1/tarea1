@@ -87,3 +87,27 @@
     border-radius: 10px;
     border-color: white;
 }
+
+.ofertascard {
+  display: flex; 
+  flex-wrap: wrap; 
+  gap: 20px; 
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.cardgaleria {
+  display: flex; 
+  flex-wrap: wrap; 
+  gap: 20px; 
+  padding: 20px;
+  justify-content: space-between;
+}
+.segundaGaleria {
+  display: flex; 
+  flex-wrap: wrap; 
+  gap: 20px; 
+  padding: 20px;
+  justify-content: space-between;
+}
+
